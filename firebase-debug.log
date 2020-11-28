@@ -1,0 +1,21 @@
+[debug] [2020-11-28T07:41:34.363Z] ----------------------------------------------------------------------
+[debug] [2020-11-28T07:41:34.365Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\biosh\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-11-28T07:41:34.365Z] CLI Version:   8.16.2
+[debug] [2020-11-28T07:41:34.365Z] Platform:      win32
+[debug] [2020-11-28T07:41:34.365Z] Node Version:  v12.16.3
+[debug] [2020-11-28T07:41:34.367Z] Time:          Sat Nov 28 2020 01:41:34 GMT-0600 (GMT-06:00)
+[debug] [2020-11-28T07:41:34.368Z] ----------------------------------------------------------------------
+[debug] [2020-11-28T07:41:34.368Z] 
+[debug] [2020-11-28T07:41:34.376Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-11-28T07:41:34.377Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\biosh\Desktop\yaha\sorpresa-web
+
